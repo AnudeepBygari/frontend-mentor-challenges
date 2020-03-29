@@ -77,14 +77,14 @@ body {
  .box h2{
      margin: 0;
  }
- .box.img{
+ .box img{
      display: block;
      margin-left: auto;
  }
  footer{ 
      text-align: center;  
  }
- @media(max-width: 0px){775
+ @media(max-width: 0px){
      .box-push{
          transform: translateY(0);
 
